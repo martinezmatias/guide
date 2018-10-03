@@ -34,16 +34,26 @@ of the maintenance of small projects.
 
 Juniors will usually be promoted from internships or hired at the end of their studies.
 
+ML extra: Junior Engineers should have basic experience of applying ML algorithms.
+Besides, they should be able to obtain superficial understanding of the papers.
+
 #### Engineer I
 
 Engineers (I) are able to work comfortably on small tasks without any supervision, they have 
 succeeded working on mid/big size tasks and are able to understand the impact of their
 changes.
 
+ML extra: Engineers (I) should already have certain scientific preferences.
+There should be an intuition of which ML algorithms work best in each case.
+
 #### Engineer II
 
 Engineers (II) are expected to work autonomously on most tasks, create projects from
 scratch and be involved actively in design of new features.
+
+ML extra: Engineers (II) should obtain an in-depth understanding of the read papers
+and efficiently implement ML algorithms from them.
+They are also expected to suggest improvements to the internal processes. 
 
 #### Engineer III
 
@@ -58,9 +68,15 @@ specialized expertise in some areas, as well as be able to comply with high
 quality standards when coding. Senior Engineers are also expected to mentor
 other team members as needed.
 
+ML extra: Senior Engineer (I) should be able to suggest and develop new ML algorithms and write new papers.
+
 #### Senior Engineer II
 
 Senior Engineers (II) have outstanding performance and higher expertise in some important areas.
+
+ML extra: Senior Engineers (II) should have a track of remarkable ML achievements such as
+a series of successful projects at work, a recognized ML speaker profile,
+high rank on Kaggle, good papers or being an author of a popular ML library.
 
 #### Distinguished Engineer
 
